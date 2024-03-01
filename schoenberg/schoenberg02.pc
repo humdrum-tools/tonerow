@@ -1,0 +1,29 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 24
+!!!OPR: Serenade
+!!!OMV: Movement 4
+!!!OTL: "Sonett"
+!!!ODT: 1922/1923
+!!!AIN: barit cello clarb clars guitar mando viola violn 
+**pc	**kern
+*X:	*X:
+0	E
+10	D
+11	D#
+7	B
+8	C
+9	C#
+4	G#
+2	F#
+5	A
+1	F
+3	G
+6	A#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{OMV}, @{OTL} (@{ODT})
+!!!IHC: If inverted and transposed by 1 semitone, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!RKY: -0.46
+!!!T33: 0
+!!!T35: 0

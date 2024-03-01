@@ -1,0 +1,28 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 24
+!!!OTL: Concerto for Nine Instruments
+!!!ODT: 1931
+**pc	**kern
+*X:	*X:
+0	B
+11	A#
+3	D
+4	D#
+8	G
+7	F#
+9	G#
+5	E
+6	F
+1	C
+2	C#
+10	A
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!DRV: This row can be derived from its first 3 notes.
+!!!MIR: The row is its own retrograde inversion, transposed 7 semitones, rotated 6 positions.
+!!!IHC: If inverted and transposed by 1, 5 or 9 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 5 instances of the semitone interval class.
+!!!RKY: 0.10
+!!!T33: 4
+!!!T35: 0

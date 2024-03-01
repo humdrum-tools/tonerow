@@ -1,0 +1,27 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 20
+!!!OTL: String Trio
+!!!ODT: 1926-27
+**pc	**kern
+*X:	*X:
+0	G#
+11	G
+6	D
+5	C#
+10	F#
+9	F
+1	A
+2	A#
+7	D#
+8	E
+4	C
+3	B
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!DRV: This row can be derived from its first 2 notes.
+!!!IHC: If inverted and transposed by 1 semitone, the first 6 notes become their own complement.
+!!!SEM: This row contains 6 instances of the semitone interval class.
+!!!RKY: -1.42
+!!!T33: 0
+!!!T35: 2

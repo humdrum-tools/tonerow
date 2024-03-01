@@ -1,0 +1,27 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 34
+!!!OTL: Accompaniment to a Film Scene
+!!!ODT: 1930
+!!!AIN: orch
+**pc	**kern
+*X:	*X:
+0	D#
+3	F#
+11	D
+1	E
+10	C#
+9	C
+6	A
+8	B
+7	A#
+5	G#
+2	F
+4	G
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 2 instances of the semitone interval class.
+!!!RKY: -0.48
+!!!T33: 2
+!!!T35: 0

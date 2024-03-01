@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 23
+!!!ONM: Number 5
+!!!OTL: Five Piano Pieces
+!!!ODT: 1920/1923
+!!!AIN: piano
+**pc	**kern
+*X:	*X:
+0	C#
+8	A
+10	B
+6	G
+7	G#
+5	F#
+9	A#
+1	D
+3	E
+2	D#
+11	C
+4	F
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS}, @{ONM} (@{ODT})
+!!!IHC: If inverted and transposed by 9 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 2 instances of the semitone interval class.
+!!!RKY: 0.10
+!!!T33: 0
+!!!T35: 0

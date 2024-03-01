@@ -1,0 +1,28 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 30
+!!!OTL: Variations for Orchestra
+!!!ODT: 1940
+**pc	**kern
+*X:	*X:
+0	A
+1	A#
+4	C#
+3	C
+2	B
+5	D
+6	D#
+9	F#
+8	F
+7	E
+10	G
+11	G#
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}, <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!DRV: This row can be derived from its first 6 notes.
+!!!MIR: The row is its own retrograde inversion, transposed 11 semitones.
+!!!IHC: If inverted and transposed by 11 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 7 instances of the semitone interval class.
+!!!RKY: -2.00
+!!!T33: 2
+!!!T35: 0

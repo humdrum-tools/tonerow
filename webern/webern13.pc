@@ -1,0 +1,26 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 23
+!!!OTL: Three Songs
+!!!ODT: 1933-1934
+**pc	**kern
+*X:	*X:
+0	G#
+7	D#
+11	G
+8	E
+2	A#
+10	F#
+6	D
+9	F
+5	C#
+4	C
+1	A
+3	B
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS}
+!!!SEM: This row contains 1 instance of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: -0.14
+!!!T33: 1
+!!!T35: 0

@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 50A
+!!!OTL: Three Times a Thousand Years
+!!!ODT: 1949
+!!!AIN: chor
+**pc	**kern
+*X:	*X:
+0	G
+2	A
+11	F#
+9	E
+10	F
+4	B
+3	A#
+7	D
+5	C
+6	C#
+8	D#
+1	G#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: 0.85
+!!!T33: 0
+!!!T35: 1

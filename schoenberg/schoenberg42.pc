@@ -1,0 +1,26 @@
+!!!COM: Schoenberg, Arnold
+!!!OTL: Moses and Aron
+!!!ODT: 1930-1932
+!!!AIN: chor chor orch vox vox 
+**pc	**kern
+*X:	*X:
+0	A
+1	A#
+7	E
+5	D
+6	D#
+4	C#
+10	G
+8	F
+9	F#
+11	G#
+2	B
+3	C
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i> (@{ODT})
+!!!IHC: If inverted and transposed by 3 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 4 instances of the semitone interval class.
+!!!RKY: -1.03
+!!!T33: 1
+!!!T35: 1

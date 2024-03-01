@@ -1,0 +1,31 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 47
+!!!OTL: Fantasy for Violin and Piano
+!!!ODT: 1949
+!!!AIN: piano violn 
+**pc	**kern
+*X:	*X:
+0	A#
+11	A
+3	C#
+1	B
+7	F
+9	G
+5	D#
+6	E
+2	C
+4	D
+10	G#
+8	F#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!DRV: This row can be derived from its first 4 or 6 notes.
+!!!MIR: The row is its own retrograde, transposed 6 semitones, rotated 4 positions.
+!!!MIR: The row is its own inversion, transposed 5 semitones, rotated 6 positions.
+!!!MIR: The row is its own retrograde inversion, transposed 11 semitones, rotated 10 positions.
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 2 instances of the semitone interval class.
+!!!RKY: -2.03
+!!!T33: 2
+!!!T35: 0

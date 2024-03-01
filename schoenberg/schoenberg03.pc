@@ -1,0 +1,31 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 24
+!!!OPR: Serenade
+!!!OMV: Movement 5
+!!!OTL: "Tanzscene"
+!!!ODT: 1920/1923
+!!!AIN: barit cello clarb clars guitar mando viola violn 
+**pc	**kern
+*X:	*X:
+0	A
+1	A#
+3	C
+6	D#
+7	E
+9	F#
+8	F
+10	G
+11	G#
+2	B
+4	C#
+5	D
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{OMV}, @{OTL} (@{ODT})
+!!!DRV: This row can be derived from its first 3 or 6 notes.
+!!!MIR: The row is its own retrograde inversion, transposed 5 semitones.
+!!!IHC: If inverted and transposed by 5 or 11 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 5 instances of the semitone interval class.
+!!!RKY: -1.30
+!!!T33: 0
+!!!T35: 0

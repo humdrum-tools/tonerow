@@ -1,0 +1,27 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 25
+!!!OTL: Three Songs on Texts by Hildegard Jone
+!!!ODT: 1934
+!!!ONB: same row used for all three songs
+**pc	**kern
+*X:	*X:
+0	G
+9	E
+8	D#
+11	F#
+6	C#
+10	F
+7	D
+4	B
+3	A#
+5	C
+2	A
+1	G#
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT}), @{ONB}
+!!!IHC: If inverted and transposed by 1 semitone, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!RKY: -1.25
+!!!T33: 3
+!!!T35: 0

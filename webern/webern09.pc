@@ -1,0 +1,28 @@
+!!!COM: Webern, Anton
+!!!OPR: Two Songs
+!!!OPS: Opus 19
+!!!ONM: Numbers 1 and 2
+!!!OTL: "Weiss wie Lilien" (prime form) and "Ziehn die Schafe" (transposed retrograde inversion)
+!!!ODT: 1925-1926
+**pc	**kern
+*X:	*X:
+0	G
+3	A#
+11	F#
+10	F
+8	D#
+2	A
+1	G#
+6	C#
+7	D
+4	B
+9	E
+5	C
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: 0.25
+!!!T33: 1
+!!!T35: 1
+!!!ref: @{COM}: <I>@{OPS}</I>, @{OPR}, @{ONM}, @{OTL} (@{ODT})

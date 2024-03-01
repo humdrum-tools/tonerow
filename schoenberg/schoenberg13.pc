@@ -1,0 +1,26 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 30
+!!!OTL: Third String Quartet
+!!!ODT: 1927
+!!!AIN: cello viola violn violn 
+**pc	**kern
+*X:	*X:
+0	G
+9	E
+8	D#
+2	A
+5	C
+10	F
+11	F#
+4	B
+3	A#
+6	C#
+1	G#
+7	D
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!RKY: -0.06
+!!!T33: 1
+!!!T35: 1

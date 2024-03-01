@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 33B
+!!!OPR: Two Piano Pieces
+!!!ONM: Number 2
+!!!ODT: 1931
+!!!AIN: piano
+**pc	**kern
+*X:	*X:
+0	B
+2	C#
+6	F
+4	D#
+10	A
+9	G#
+7	F#
+11	A#
+8	G
+5	E
+1	C
+3	D
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{ONM} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 1 instance of the semitone interval class.
+!!!RKY: -0.67
+!!!T33: 1
+!!!T35: 1

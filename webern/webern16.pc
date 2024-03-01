@@ -1,0 +1,25 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 26
+!!!OTL: Das Augenlicht
+!!!ODT: 1935
+**pc	**kern
+*X:	*X:
+0	G#
+2	A#
+1	A
+4	C
+3	B
+7	D#
+8	E
+5	C#
+9	F
+6	D
+10	F#
+11	G
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!SEM: This row contains 4 instances of the semitone interval class.
+!!!RKY: -1.57
+!!!T33: 2
+!!!T35: 0

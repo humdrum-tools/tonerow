@@ -1,0 +1,27 @@
+!!!COM: Webern, Anton
+!!!OPR: Three Songs
+!!!OPS: Opus 18
+!!!OTL: "Ave, Regina Coelorum"
+!!!ONM: Number 3
+!!!ODT: 1925
+**pc	**kern
+*X:	*X:
+0	E
+11	D#
+3	G
+2	F#
+1	F
+7	B
+6	A#
+10	D
+9	C#
+8	C
+5	A
+4	G#
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!SEM: This row contains 7 instances of the semitone interval class.
+!!!RKY: -1.58
+!!!T33: 3
+!!!T35: 1
+!!!ref: @{COM}: <I>@{OPS}</I>, @{OPR}, @{ONM}, @{OTL} (@{ODT})

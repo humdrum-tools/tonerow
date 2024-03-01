@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 36
+!!!OTL: Concerto for Violin and Orchestra
+!!!ODT: 1934/1936
+!!!AIN: orch violn 
+**pc	**kern
+*X:	*X:
+0	A
+1	A#
+6	D#
+2	B
+7	E
+9	F#
+3	C
+4	C#
+10	G
+11	G#
+5	D
+8	F
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: -0.65
+!!!T33: 0
+!!!T35: 2

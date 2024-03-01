@@ -1,0 +1,25 @@
+!!!COM: Schoenberg, Arnold
+!!!OTL: Israel Exists Again
+!!!ODT: 1949
+!!!AIN: chor orch
+**pc	**kern
+*X:	*X:
+0	C
+3	D#
+4	E
+9	A
+11	B
+5	F
+2	D
+1	C#
+10	A#
+8	G#
+6	F#
+7	G
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i> (@{ODT})
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!RKY: -0.35
+!!!T33: 2
+!!!T35: 0

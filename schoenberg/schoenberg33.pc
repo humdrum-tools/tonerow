@@ -1,0 +1,29 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 46
+!!!OTL: A Survivor from Warsaw
+!!!ODT: 1947
+!!!AIN: chor orch vox 
+**pc	**kern
+*X:	*X:
+0	F#
+1	G
+6	C
+2	G#
+10	E
+9	D#
+5	B
+4	A#
+11	F
+3	A
+7	C#
+8	D
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!DRV: This row can be derived from its first 6 notes.
+!!!MIR: The row is its own inversion, transposed 5 semitones, rotated 6 positions.
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 4 instances of the semitone interval class.
+!!!RKY: -0.58
+!!!T33: 0
+!!!T35: 2

@@ -1,0 +1,28 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 21
+!!!OTL: Chamber Symphony
+!!!ODT: 1927-1928
+**pc	**kern
+*X:	*X:
+0	F
+3	G#
+2	G
+1	F#
+5	A#
+4	A
+10	D#
+11	E
+7	C
+8	C#
+9	D
+6	B
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!DRV: This row can be derived from its first 6 notes.
+!!!MIR: The row is its own retrograde, transposed 6 semitones.
+!!!IHC: If inverted and transposed by 11 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 6 instances of the semitone interval class.
+!!!RKY: -0.49
+!!!T33: 2
+!!!T35: 0

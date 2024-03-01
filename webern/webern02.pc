@@ -1,0 +1,24 @@
+!!!COM: Webern, Anton
+!!!OTL: Kinderstueck
+!!!ODT: 1924
+**kern	**pc
+*X:	*X:
+E-	0
+E	1
+C	9
+B	8
+B-	7
+C#	10
+D	11
+A	6
+A-	5
+G	4
+F#	3
+F	2
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i> (@{ODT})
+!!!SEM: This row contains 8 instances of the semitone interval class.
+!!!RKY: -1.96
+!!!T33: 1
+!!!T35: 1

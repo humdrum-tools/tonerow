@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 48
+!!!OPR: Three Songs
+!!!ONM: Number 1
+!!!OTL: "Sommermud"
+!!!ODT: 1933
+!!!AIN: piano vox 
+**pc	**kern
+*X:	*X:
+0	C#
+1	D
+11	C
+5	F#
+2	D#
+4	F
+3	E
+9	A#
+10	B
+6	G
+8	A
+7	G#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{ONM}, @{OTL} (@{ODT})
+!!!SEM: This row contains 4 instances of the semitone interval class.
+!!!RKY: -2.43
+!!!T33: 0
+!!!T35: 1

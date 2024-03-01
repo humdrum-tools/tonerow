@@ -1,0 +1,29 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 35
+!!!OPR: Six Pieces for Male Chorus
+!!!ONM: Number 2
+!!!ODT: 1930
+!!!AIN: chor
+**pc	**kern
+*X:	*X:
+0	F#
+3	A
+1	G
+7	C#
+6	C
+8	D
+11	F
+5	B
+4	A#
+9	D#
+10	E
+2	G#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{ONM} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: 0.43
+!!!T33: 0
+!!!T35: 1

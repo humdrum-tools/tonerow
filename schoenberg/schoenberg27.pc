@@ -1,0 +1,26 @@
+!!!COM: Schoenberg, Arnold
+!!!OTL: Fragment for Piano (Four Hands)
+!!!ODT: date unknown
+!!!AIN: piano
+**pc	**kern
+*X:	*X:
+0	F#
+3	A
+6	C
+1	G
+7	C#
+8	D
+2	G#
+5	B
+11	F
+4	A#
+10	E
+9	D#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i> (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 2 instances of the semitone interval class.
+!!!RKY: -0.44
+!!!T33: 0
+!!!T35: 2

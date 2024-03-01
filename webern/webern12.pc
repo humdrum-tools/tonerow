@@ -1,0 +1,27 @@
+!!!COM: Webern, Anton
+!!!OPS: Opus 22
+!!!OTL: Quartet for Violin, Clarinet, Tenor Sax, and Piano
+!!!ODT: 1928-1930
+**pc	**kern
+*X:	*X:
+0	F#
+9	D#
+8	D
+11	F
+10	E
+2	G#
+3	A
+4	A#
+5	B
+7	C#
+1	G
+6	C
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 3 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 5 instances of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: -1.15
+!!!T33: 2
+!!!T35: 1

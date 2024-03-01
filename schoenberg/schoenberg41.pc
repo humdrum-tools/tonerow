@@ -1,0 +1,29 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 50C
+!!!OPR: Modern Psalms
+!!!OTL: First Psalm (unfinished)
+!!!ODT: 1950
+!!!AIN: chor orch vox 
+**pc	**kern
+*X:	*X:
+0	E
+11	D#
+8	C
+4	G#
+7	B
+3	G
+1	F
+5	A
+2	F#
+6	A#
+9	C#
+10	D
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{OTL} (@{ODT})
+!!!DRV: This row can be derived from its first 6 notes.
+!!!IHC: If inverted and transposed by 1, 5 or 9 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 2 instances of the semitone interval class.
+!!!RKY: 0.02
+!!!T33: 4
+!!!T35: 0

@@ -1,0 +1,27 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 28
+!!!OPR: Three Satires for Mixed Chorus
+!!!ONM: Number 1
+!!!ODT: 1925/1926
+!!!AIN: alto cello chor piano 
+**pc	**kern
+*X:	*X:
+0	C
+4	E
+7	G
+1	C#
+9	A
+11	B
+5	F
+3	D#
+2	D
+6	F#
+8	G#
+10	A#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{ONM} (@{ODT})
+!!!SEM: This row contains 1 instances of the semitone interval class.
+!!!RKY: 0.63
+!!!T33: 0
+!!!T35: 0

@@ -1,0 +1,27 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 50B
+!!!OTL: Psalm 130, De Profundis (unfinished)
+!!!ODT: 1950
+!!!AIN: chor
+**pc	**kern
+*X:	*X:
+0	D#
+6	A
+5	G#
+1	E
+11	D
+7	A#
+4	G
+8	B
+9	C
+3	F#
+2	F
+10	C#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: Psalm 130, <i>De Profundis</i> (unfinished), @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 3 or 9 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!RKY: -1.20
+!!!T33: 0
+!!!T35: 1

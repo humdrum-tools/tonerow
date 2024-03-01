@@ -1,0 +1,27 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 25
+!!!OTL: Suite for Piano
+!!!ODT: 1921/1923
+!!!AIN: piano
+**pc	**kern
+*X:	*X:
+0	E
+1	F
+3	G
+9	C#
+2	F#
+11	D#
+4	G#
+10	D
+7	B
+8	C
+5	A
+6	A#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 7 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 3 instances of the semitone interval class.
+!!!RKY: -1.66
+!!!T33: 0
+!!!T35: 0

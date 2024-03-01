@@ -1,0 +1,27 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 37
+!!!OTL: Fourth String Quartet
+!!!ODT: 1936
+!!!AIN: cello viola violn violn
+**pc	**kern
+*X:	*X:
+0	D
+11	C#
+7	A
+8	A#
+3	F
+1	D#
+2	E
+10	C
+6	G#
+5	G
+4	F#
+9	B
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 5 instances of the semitone interval class.
+!!!RKY: 0.00
+!!!T33: 0
+!!!T35: 0

@@ -1,0 +1,27 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 35
+!!!OPR: Six Pieces for Male Chorus
+!!!ONM: Number 3
+!!!ODT: 1930
+!!!AIN: chor
+**pc	**kern
+*X:	*X:
+0	D#
+3	F#
+4	G
+5	G#
+2	F
+9	C
+6	A
+7	A#
+1	E
+8	B
+11	D
+10	C#
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{ONM} (@{ODT})
+!!!SEM: This row contains 4 instances of the semitone interval class.
+!!!RKY: -0.03
+!!!T33: 1
+!!!T35: 1

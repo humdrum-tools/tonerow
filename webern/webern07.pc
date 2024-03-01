@@ -1,0 +1,28 @@
+!!!COM: Webern, Anton
+!!!OPR: Three Songs
+!!!OPS: Opus 18
+!!!OTL: "Erlosung"
+!!!ONM: Number 2
+!!!ODT: 1925
+**pc	**kern
+*X:	*X:
+0	F#
+3	A
+11	F
+2	G#
+10	E
+1	G
+9	D#
+5	B
+8	D
+4	A#
+7	C#
+6	C
+*-	*-
+!!!YOR: Kathryn Bailey, The Twelve-Note Music of Anton Webern (Cambridge University Press, 1991)
+!!!IHC: If inverted and transposed by 7 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 1 instance of the semitone interval class.
+!!!RKY: -1.19
+!!!T33: 3
+!!!T35: 0
+!!!ref: @{COM}: <I>@{OPS}</I>, @{OPR}, @{ONM}, @{OTL} (@{ODT})

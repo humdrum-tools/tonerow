@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 28
+!!!OPR: Three Satires for Mixed Chorus
+!!!ONM: Number 3
+!!!ODT: 1925/1926
+!!!AIN: alto cello chor piano 
+**pc	**kern
+*X:	*X:
+0	F
+1	F#
+11	E
+3	G#
+9	D
+5	A#
+2	G
+4	A
+10	D#
+6	B
+8	C#
+7	C
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OPR}</i>, @{OPS}, @{ONM} (@{ODT})
+!!!IHC: If inverted and transposed by 7 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 2 instances of the semitone interval class.
+!!!RKY: -2.51
+!!!T33: 0
+!!!T35: 0

@@ -1,0 +1,28 @@
+!!!COM: Schoenberg, Arnold
+!!!OPS: Opus 42
+!!!OTL: Concerto for Piano and Orchestra
+!!!ODT: 1942
+!!!AIN: piano
+**pc	**kern
+*X:	*X:
+0	D#
+7	A#
+11	D
+2	F
+1	E
+9	C
+3	F#
+5	G#
+10	C#
+6	A
+8	B
+4	G
+*-	*-
+!!!YOR: Paul Metz, unpublished course project, ca. 1980
+!!!ref: @{COM}: <i>@{OTL}</i>, @{OPS} (@{ODT})
+!!!IHC: If inverted and transposed by 5 semitones, the first 6 notes become their own complement.
+!!!SEM: This row contains 1 instance of the semitone interval class.
+!!!AIR: This is an all-interval row.
+!!!RKY: 0.42
+!!!T33: 0
+!!!T35: 0
